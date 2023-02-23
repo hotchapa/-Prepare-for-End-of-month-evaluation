@@ -8,4 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/107088906/220813877-7b67b17e-7586-4ac3-8f80-75197eca4cba.png)
 
-[ IM대비 보충수업 문제 리스트 추가]
+[ IM대비 보충수업 문제 리스트 추가 ]
+
+![image](https://user-images.githubusercontent.com/107088906/220932157-c9f6bf4b-e8db-4469-b435-a40536a6dc31.png)
+
+[ 교수님 추천 문제 추가 ]
