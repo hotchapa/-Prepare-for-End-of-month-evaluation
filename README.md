@@ -8,4 +8,4 @@
 
 ![image](https://user-images.githubusercontent.com/107088906/220813877-7b67b17e-7586-4ac3-8f80-75197eca4cba.png)
 
-[ 보충수업 문제 리스트 추가]
+[ IM대비 보충수업 문제 리스트 추가]
