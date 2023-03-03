@@ -10,3 +10,13 @@ for test_case in range(1, T + 1):
             answer += farm[i][j] + farm[N-i-1][j]
  
     print(f'#{test_case} {answer - sum(farm[m])}')  # 가운데를 두번 더해줬으므로 한번은 다시 빼준다.
+
+
+
+
+
+
+
+
+
+
