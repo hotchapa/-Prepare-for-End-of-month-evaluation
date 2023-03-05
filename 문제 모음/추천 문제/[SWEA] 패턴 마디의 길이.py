@@ -1,5 +1,5 @@
 T = int(input())
-for tc in range(1,T+1):
+for tc in range(1, T+1):
     str_list = input()
     word = ""
     for i in str_list:
@@ -9,4 +9,3 @@ for tc in range(1,T+1):
             break
 
     print(f"#{tc} {len(word)}")
-
